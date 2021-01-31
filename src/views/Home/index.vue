@@ -1,0 +1,16 @@
+<template>
+  <div>
+    draggable
+  </div>
+</template>
+
+<script>
+  export default {
+    data() {
+      
+    }
+  }
+</script>
+
+<style lang="scss">
+</style>
