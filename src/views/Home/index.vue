@@ -1,6 +1,6 @@
 <template>
   <div>
-    draggable
+    draggable拖拽
   </div>
 </template>
 
